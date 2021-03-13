@@ -1,5 +1,8 @@
 ﻿program name;
-var number,coppyNumber,countOfNumbers:integer ;isEmpty:boolean;
+var 
+  number,coppyNumber:int64;
+  countOfNumbers:byte;
+  isEmpty:boolean;
 begin 
   write('Input your number : ');
   readln(number);//ввод цифры
